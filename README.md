@@ -11,8 +11,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  O que é Next.js
   - [x]  <a src="https://github.com/cod3rcursos/curso-nextjs">Repositório do curso</a>
 - [ ]  2. Revisão React
-  - [ ]  Introdução do módulo
-  - [ ]  Código fonte Final
+  - [x]  Introdução do módulo
+  - [x]  <a src="https://drive.google.com/file/d/13Bgy1-Xgi1zmTasERh4-F0aLoOA-7YhV/view?usp=sharing">Código fonte Final</a>
   - [ ]  Objetivos do módulo
   - [ ]  Criando o primeiro projeto
   - [ ]  Primeiro componente
