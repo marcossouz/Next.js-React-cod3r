@@ -13,7 +13,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
 - [ ]  2. Revisão React
   - [x]  Introdução do módulo
   - [x]  <a href="https://drive.google.com/file/d/13Bgy1-Xgi1zmTasERh4-F0aLoOA-7YhV/view?usp=sharing">Código fonte Final</a>
-  - [ ]  Objetivos do módulo
+  - [x]  Objetivos do módulo
   - [ ]  Criando o primeiro projeto
   - [ ]  Primeiro componente
   - [ ]  JSX #01
