@@ -14,10 +14,10 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Introdução do módulo
   - [x]  <a href="https://drive.google.com/file/d/13Bgy1-Xgi1zmTasERh4-F0aLoOA-7YhV/view?usp=sharing">Código fonte Final</a>
   - [x]  Objetivos do módulo
-  - [ ]  Criando o primeiro projeto
-  - [ ]  Primeiro componente
-  - [ ]  JSX #01
-  - [ ]  JSX #02
+  - [x]  Criando o primeiro projeto
+  - [x]  Primeiro componente
+  - [x]  JSX #01
+  - [x]  JSX #02
   - [ ]  JSX #03
   - [ ]  JSX #04
   - [ ]  Desafio Lista
