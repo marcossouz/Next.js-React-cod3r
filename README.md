@@ -24,9 +24,9 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Desafio Lista - Resposta #01
   - [x]  Desafio Lista - Resposta #02
   - [x]  Desafio Lista - Resposta #03
-  - [ ]  Fragment #01
-  - [ ]  Fragment #02
-  - [ ]  Usando componente
+  - [x]  Fragment #01
+  - [x]  Fragment #02
+  - [x]  Usando componente
   - [ ]  Propriedades de componente
   - [ ]  Integração com CSS #01
   - [ ]  Integração com CSS #02
