@@ -28,8 +28,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Fragment #02
   - [x]  Usando componente
   - [x]  Propriedades de componente
-  - [ ]  Integração com CSS #01
-  - [ ]  Integração com CSS #02
+  - [x]  Integração com CSS #01
+  - [x]  Integração com CSS #02
   - [ ]  Propriedades são somente leitura
   - [ ]  Aplicando Estilo CSS
   - [ ]  Projeto Tabuleiro #01
