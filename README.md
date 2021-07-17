@@ -20,10 +20,10 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  JSX #02
   - [x]  JSX #03
   - [x]  JSX #04
-  - [ ]  Desafio Lista
-  - [ ]  Desafio Lista - Resposta #01
-  - [ ]  Desafio Lista - Resposta #02
-  - [ ]  Desafio Lista - Resposta #03
+  - [x]  Desafio Lista
+  - [x]  Desafio Lista - Resposta #01
+  - [x]  Desafio Lista - Resposta #02
+  - [x]  Desafio Lista - Resposta #03
   - [ ]  Fragment #01
   - [ ]  Fragment #02
   - [ ]  Usando componente
