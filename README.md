@@ -19,7 +19,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  JSX #01
   - [x]  JSX #02
   - [x]  JSX #03
-  - [ ]  JSX #04
+  - [x]  JSX #04
   - [ ]  Desafio Lista
   - [ ]  Desafio Lista - Resposta #01
   - [ ]  Desafio Lista - Resposta #02
