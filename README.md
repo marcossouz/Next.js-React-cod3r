@@ -67,4 +67,4 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
 
 ## Reference
 
-- Course: <a src="https://www.cod3r.com.br/courses/nextjs">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
+- Course: <a href="https://www.cod3r.com.br/courses/nextjs">Next.js & React - Curso Completo - Totalmente Baseado em Projetos</a>
