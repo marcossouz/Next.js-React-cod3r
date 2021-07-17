@@ -1,3 +1,5 @@
+// Não posso importar CSS aqui, foi feito em _app.js globalmente
+
 export default function integracao() {
   return (
   <div className="integracao1">
