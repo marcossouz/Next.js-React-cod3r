@@ -1,12 +1,12 @@
-import Head from 'next/head'
-import Image from 'next/image'
-import Subdivisao from '../components/Subdivisao'
+import Linha from '../components/Linha'
 import styles from '../styles/Home.module.css'
 
 export default function Home() {
   return (
     <div className={styles.container}>
-      <Subdivisao />
+      <Linha />
+      <Linha />
+      <Linha />
     </div>
   )
 }
