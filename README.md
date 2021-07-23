@@ -37,8 +37,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Projeto Tabuleiro #03
   - [x]  Projeto Tabuleiro #04
   - [x]  Projeto Tabuleiro #05
-  - [ ]  Repetição #01
-  - [ ]  Repetição #02
+  - [x]  Repetição #01
+  - [x]  Repetição #02
   - [ ]  Condicional #01
   - [ ]  Propriedade chieldren
   - [ ]  Condicional #02
