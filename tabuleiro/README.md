@@ -1,4 +1,4 @@
-![](/Users/marcossouza/Desktop/Captura de Tela 2021-07-23 às 16.07.08.png)
+![](https://i.imgur.com/UMDtjBg.png)
 
 
 
