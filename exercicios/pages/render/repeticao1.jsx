@@ -13,7 +13,7 @@ export default function repeticao1() {
     const itens = []
 
     for (let i = 0; i < listaAprovados.length; i++) {
-      itens.push(<li>{listaAprovados[i]}</li>)
+      itens.push(<li key={i}>{listaAprovados[i]}</li>)
     }
 
     return itens
