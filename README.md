@@ -36,7 +36,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Projeto Tabuleiro #02
   - [x]  Projeto Tabuleiro #03
   - [x]  Projeto Tabuleiro #04
-  - [x]  Projeto Tabuleiro #05
+  - [x]  <a href="https://github.com/marcossouz/Next.js-React-cod3r/tree/main/tabuleiro">Projeto Tabuleiro #05 (final) </a>
   - [x]  Repetição #01
   - [x]  Repetição #02
   - [ ]  Condicional #01
