@@ -32,10 +32,10 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Integração com CSS #02
   - [x]  Propriedades são somente leitura
   - [x]  Aplicando Estilo CSS
-  - [ ]  Projeto Tabuleiro #01
-  - [ ]  Projeto Tabuleiro #02
-  - [ ]  Projeto Tabuleiro #03
-  - [ ]  Projeto Tabuleiro #04
+  - [x]  Projeto Tabuleiro #01
+  - [x]  Projeto Tabuleiro #02
+  - [x]  Projeto Tabuleiro #03
+  - [x]  Projeto Tabuleiro #04
   - [ ]  Projeto Tabuleiro #05
   - [ ]  Repetição #01
   - [ ]  Repetição #02
