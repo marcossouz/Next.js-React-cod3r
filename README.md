@@ -36,7 +36,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Projeto Tabuleiro #02
   - [x]  Projeto Tabuleiro #03
   - [x]  Projeto Tabuleiro #04
-  - [ ]  Projeto Tabuleiro #05
+  - [x]  Projeto Tabuleiro #05
   - [ ]  Repetição #01
   - [ ]  Repetição #02
   - [ ]  Condicional #01
