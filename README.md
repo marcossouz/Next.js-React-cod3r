@@ -39,8 +39,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  <a href="https://github.com/marcossouz/Next.js-React-cod3r/tree/main/tabuleiro">Projeto Tabuleiro #05 (final) </a>
   - [x]  Repetição #01
   - [x]  Repetição #02
-  - [ ]  Condicional #01
-  - [ ]  Propriedade chieldren
+  - [x]  Condicional #01
+  - [x]  Propriedade chieldren
   - [ ]  Condicional #02
   - [ ]  Comunicação Direta
   - [ ]  Chamando função via evento
