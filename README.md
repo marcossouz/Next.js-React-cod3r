@@ -10,52 +10,53 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Pré Requisitos
   - [x]  O que é Next.js
   - [x]  <a href="https://github.com/cod3rcursos/curso-nextjs">Repositório do curso</a>
-- [ ]  2. Revisão React
-  - [x]  Introdução do módulo
-  - [x]  <a href="https://drive.google.com/file/d/13Bgy1-Xgi1zmTasERh4-F0aLoOA-7YhV/view?usp=sharing">Código fonte Final</a>
-  - [x]  Objetivos do módulo
-  - [x]  Criando o primeiro projeto
-  - [x]  Primeiro componente
-  - [x]  JSX #01
-  - [x]  JSX #02
-  - [x]  JSX #03
-  - [x]  JSX #04
-  - [x]  Desafio Lista
-  - [x]  Desafio Lista - Resposta #01
-  - [x]  Desafio Lista - Resposta #02
-  - [x]  Desafio Lista - Resposta #03
-  - [x]  Fragment #01
-  - [x]  Fragment #02
-  - [x]  Usando componente
-  - [x]  Propriedades de componente
-  - [x]  Integração com CSS #01
-  - [x]  Integração com CSS #02
-  - [x]  Propriedades são somente leitura
-  - [x]  Aplicando Estilo CSS
-  - [x]  Projeto Tabuleiro #01
-  - [x]  Projeto Tabuleiro #02
-  - [x]  Projeto Tabuleiro #03
-  - [x]  Projeto Tabuleiro #04
-  - [x]  <a href="https://github.com/marcossouz/Next.js-React-cod3r/tree/main/tabuleiro">Projeto Tabuleiro #05 (final) </a>
-  - [x]  Repetição #01
-  - [x]  Repetição #02
-  - [x]  Condicional #01
-  - [x]  Propriedade chieldren
-  - [x]  Condicional #02
-  - [x]  Comunicação Direta
-  - [x]  Chamando função via evento
-  - [x]  Comunicação indireta
-  - [x]  Componente com estado
-  - [ ]  Desafio Contador
-  - [ ]  Desafio Contador - Resposta
-  - [ ]  Componentes controlados
-  - [ ]  Desafio Mega-Sena
-  - [ ]  Desafio MEga-Sena - Resposta #01
-  - [ ]  Desafio MEga-Sena - Resposta #02
-  - [ ]  Desafio MEga-Sena - Resposta #03
-  - [ ]  Componentes baseados em classe
-  - [ ]  Sistema módulo ECMAScript
-  - [ ]  Integrando Typescript
+- [ ] 2. Revisão React
+  - [x] Introdução do módulo
+  - [x] <a href="https://drive.google.com/file/d/13Bgy1-Xgi1zmTasERh4-F0aLoOA-7YhV/view?usp=sharing">Código fonte Final</a>
+  - [x] Objetivos do módulo
+  - [x] Criando o primeiro projeto
+  - [x] Primeiro componente
+  - [x] JSX #01
+  - [x] JSX #02
+  - [x] JSX #03
+  - [x] JSX #04
+  - [x] Desafio Lista
+  - [x] Desafio Lista - Resposta #01
+  - [x] Desafio Lista - Resposta #02
+  - [x] Desafio Lista - Resposta #03
+  - [x] Fragment #01
+  - [x] Fragment #02
+  - [x] Usando componente
+  - [x] Propriedades de componente
+  - [x] Integração com CSS #01
+  - [x] Integração com CSS #02
+  - [x] Propriedades são somente leitura
+  - [x] Aplicando Estilo CSS
+  - [x] Projeto Tabuleiro #01
+  - [x] Projeto Tabuleiro #02
+  - [x] Projeto Tabuleiro #03
+  - [x] Projeto Tabuleiro #04
+  - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/tree/main/tabuleiro">Projeto Tabuleiro #05 (final) </a>
+  - [x] Repetição #01
+  - [x] Repetição #02
+  - [x] Condicional #01
+  - [x] Propriedade chieldren
+  - [x] Condicional #02
+  - [x] Comunicação Direta
+  - [x] Chamando função via evento
+  - [x] Comunicação indireta
+  - [x] Componente com estado
+    - Captura de posição do mouse
+  - [ ] Desafio Contador
+  - [ ] Desafio Contador - Resposta
+  - [ ] Componentes controlados
+  - [ ] Desafio Mega-Sena
+  - [ ] Desafio MEga-Sena - Resposta #01
+  - [ ] Desafio MEga-Sena - Resposta #02
+  - [ ] Desafio MEga-Sena - Resposta #03
+  - [ ] Componentes baseados em classe
+  - [ ] Sistema módulo ECMAScript
+  - [ ] Integrando Typescript
   - [ ]  Conclusão do Módulo
 - [ ]  3. Fundamentos de Next.js
 - [ ]  4. Projeto Porta Premiada - APlicando os conceitos fundamentais
