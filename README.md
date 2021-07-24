@@ -47,8 +47,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x] Comunicação indireta
   - [x] Componente com estado
     - Captura de posição do mouse
-  - [ ] Desafio Contador
-  - [ ] Desafio Contador - Resposta
+  - [x] Desafio Contador
+  - [x] Desafio Contador - Resposta
   - [ ] Componentes controlados
   - [ ] Desafio Mega-Sena
   - [ ] Desafio MEga-Sena - Resposta #01
