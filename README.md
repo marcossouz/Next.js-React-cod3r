@@ -49,7 +49,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
     - Captura de posição do mouse
   - [x] Desafio Contador
   - [x] Desafio Contador - Resposta
-  - [ ] Componentes controlados
+  - [x] Componentes controlados
   - [ ] Desafio Mega-Sena
   - [ ] Desafio MEga-Sena - Resposta #01
   - [ ] Desafio MEga-Sena - Resposta #02
