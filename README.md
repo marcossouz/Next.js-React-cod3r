@@ -45,7 +45,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Comunicação Direta
   - [x]  Chamando função via evento
   - [x]  Comunicação indireta
-  - [ ]  Componente com estado
+  - [x]  Componente com estado
   - [ ]  Desafio Contador
   - [ ]  Desafio Contador - Resposta
   - [ ]  Componentes controlados
