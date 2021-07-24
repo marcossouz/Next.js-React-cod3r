@@ -44,7 +44,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Condicional #02
   - [x]  Comunicação Direta
   - [x]  Chamando função via evento
-  - [ ]  Comunicação indireta
+  - [x]  Comunicação indireta
   - [ ]  Componente com estado
   - [ ]  Desafio Contador
   - [ ]  Desafio Contador - Resposta
