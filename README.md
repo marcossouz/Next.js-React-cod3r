@@ -41,7 +41,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Repetição #02
   - [x]  Condicional #01
   - [x]  Propriedade chieldren
-  - [ ]  Condicional #02
+  - [x]  Condicional #02
   - [ ]  Comunicação Direta
   - [ ]  Chamando função via evento
   - [ ]  Comunicação indireta
