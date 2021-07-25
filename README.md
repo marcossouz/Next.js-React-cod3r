@@ -10,7 +10,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x]  Pré Requisitos
   - [x]  O que é Next.js
   - [x]  <a href="https://github.com/cod3rcursos/curso-nextjs">Repositório do curso</a>
-- [ ] 2. Revisão React
+- [x] 2. Revisão React
   - [x] Introdução do módulo
   - [x] <a href="https://drive.google.com/file/d/13Bgy1-Xgi1zmTasERh4-F0aLoOA-7YhV/view?usp=sharing">Código fonte Final</a>
   - [x] Objetivos do módulo
@@ -57,7 +57,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x] Componentes baseados em classe
   - [x] Sistema módulo ECMAScript
   - [x] Integrando Typescript
-  - [ ]  Conclusão do Módulo
+  - [x]  Conclusão do Módulo
 - [ ]  3. Fundamentos de Next.js
 - [ ]  4. Projeto Porta Premiada - APlicando os conceitos fundamentais
 - [ ]  5. Modos de Pré renderização do Next.js
