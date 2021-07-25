@@ -52,8 +52,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x] Componentes controlados
   - [x] Desafio Mega-Sena
   - [x] Desafio MEga-Sena - Resposta #01
-  - [ ] Desafio MEga-Sena - Resposta #02
-  - [ ] Desafio MEga-Sena - Resposta #03
+  - [x] Desafio MEga-Sena - Resposta #02
+  - [x] Desafio MEga-Sena - Resposta #03
   - [ ] Componentes baseados em classe
   - [ ] Sistema módulo ECMAScript
   - [ ] Integrando Typescript
