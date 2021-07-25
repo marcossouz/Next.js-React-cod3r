@@ -66,7 +66,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Criando o Projeto
      - [x] Estruturas do Projeto
      - [x] Pasta Pages e as Rotas no Next
-     - [ ] Rotas #01
+     - [x] Rotas #01
      - [ ] Rotas #02
      - [ ] Rotas #03
      - [ ] Navegando entre Páginas #01
