@@ -10,4 +10,6 @@ export default function Comp3() {
   return <h2>Comp #03</h2>
 }
 
-export const Comp4 = props => <h2>Comp #04</h2>
+export const Comp4 = props => {
+  return <h2>Comp #04</h2>
+}
