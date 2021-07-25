@@ -1,6 +1,6 @@
 import { Component } from "react";
 
-export default class Contador extends Component {
+class Contador extends Component {
 
   state = {
     numero: this.props.valorInicial ?? 0,
@@ -47,3 +47,5 @@ export default class Contador extends Component {
     )
   }
 }
+
+export default Contador
