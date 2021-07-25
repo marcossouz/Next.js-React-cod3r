@@ -1,4 +1,4 @@
-export default function Comp1() {
+export default function () {
   return <h2>Comp1</h2>
 }
 
