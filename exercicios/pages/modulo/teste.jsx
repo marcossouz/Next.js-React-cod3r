@@ -1,9 +1,9 @@
-import { Comp1 } from '../../components/modulo/funcionais'
+import { Comp1 as Blabla } from '../../components/modulo/funcionais'
 
 export default function teste() {
   return (
     <div>
-      <Comp1 />
+      <Blabla />
     </div>
   )
 }
