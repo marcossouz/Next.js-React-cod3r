@@ -69,7 +69,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Rotas #01
      - [x] Rotas #02
      - [x] Rotas #03
-     - [ ] Navegando entre Páginas #01
+     - [x] Navegando entre Páginas #01
      - [ ] Navegando entre Páginas #02
      - [ ] API #01
      - [ ] API #02
