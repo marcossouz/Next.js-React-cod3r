@@ -63,7 +63,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
 - [ ] 3. Fundamentos de Next.js
      - [x] Introdução do Módulo
      - [x] <a href="https://drive.google.com/file/d/1877JfxUOcz8KxmmcTMoULkx_r2VLy8lQ/view?usp=sharing">Código Fonte Final</a>
-     - [ ] Criando o Projeto
+     - [x] Criando o Projeto
      - [ ] Estruturonas do Projeto
      - [ ] Pasta Page e as Rotas no Next
      - [ ] Rotas #01
