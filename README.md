@@ -56,7 +56,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x] Desafio MEga-Sena - Resposta #03
   - [x] Componentes baseados em classe
   - [x] Sistema módulo ECMAScript
-  - [ ] Integrando Typescript
+  - [x] Integrando Typescript
   - [ ]  Conclusão do Módulo
 - [ ]  3. Fundamentos de Next.js
 - [ ]  4. Projeto Porta Premiada - APlicando os conceitos fundamentais
