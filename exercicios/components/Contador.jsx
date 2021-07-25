@@ -19,13 +19,17 @@ export default class Contador extends Component {
     })
   }
 
+  alteraPasso = (ev) => {
+    this.setState({ passo: +ev.target.value })
+  }
+
   renderForm() {
     return (
       <>
         <input
           type="number" min={1} max={1000}
           value={this.state.passo}
-          onChange={ev => this.setState({ passo: +ev.target.value })}
+          onChange={this.alteraPasso}
         />
         <button onClick={this.dec}>-</button>
         <button onClick={this.inc}>+</button>
