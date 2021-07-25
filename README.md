@@ -20,10 +20,10 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x] JSX #02
   - [x] JSX #03
   - [x] JSX #04
-  - [x] Desafio Lista
-  - [x] Desafio Lista - Resposta #01
-  - [x] Desafio Lista - Resposta #02
-  - [x] Desafio Lista - Resposta #03
+  - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/basicos/lista-my.jsx">Desafio Lista</a>
+  - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/basicos/lista1-solve1.jsx">Desafio Lista - Resposta #01</a>
+  - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/basicos/lista1-solve2.jsx">Desafio Lista - Resposta #02</a>
+  - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/basicos/lista1-solve3.jsx">Desafio Lista - Resposta #03</a>
   - [x] Fragment #01
   - [x] Fragment #02
   - [x] Usando componente
@@ -45,15 +45,17 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x] Comunicação Direta
   - [x] Chamando função via evento
   - [x] Comunicação indireta
-  - [x] Componente com estado
-    - Captura de posição do mouse
+  - [x] Componente com estado - <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/estado/mouse.jsx">Captura de posição do mouse</a>
+    - <img src="https://i.imgur.com/BKVMlvq.png" />
   - [x] Desafio Contador
-  - [x] Desafio Contador - Resposta
+  - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/estado/contador.jsx">Desafio Contador - Resposta</a>
+    - <img src="https://i.imgur.com/lzM5YuM.png" />
   - [x] Componentes controlados
   - [x] Desafio Mega-Sena
   - [x] Desafio MEga-Sena - Resposta #01
   - [x] Desafio MEga-Sena - Resposta #02
-  - [x] Desafio MEga-Sena - Resposta #03
+  - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/estado/megasena.jsx">Desafio MEga-Sena - Resposta #03</a>
+    - <img src="https://i.imgur.com/8FL5RC2.png" />
   - [x] Componentes baseados em classe
   - [x] Sistema módulo ECMAScript
   - [x] Integrando Typescript
