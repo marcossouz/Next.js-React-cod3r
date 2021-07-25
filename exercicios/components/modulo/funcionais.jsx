@@ -27,3 +27,9 @@ export default () => (
     <h2>Comp #07</h2>
   </div>
 )
+
+export const Comp8 = props => (
+  <div>
+    <h2>Comp #08 {props.msg}</h2>
+  </div>
+)
