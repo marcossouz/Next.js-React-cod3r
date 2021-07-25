@@ -46,22 +46,41 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x] Chamando função via evento
   - [x] Comunicação indireta
   - [x] Componente com estado - <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/estado/mouse.jsx">Captura de posição do mouse</a>
-    - <img src="https://i.imgur.com/BKVMlvq.png" />
+
+    <img src="https://i.imgur.com/BKVMlvq.png" />
   - [x] Desafio Contador
   - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/estado/contador.jsx">Desafio Contador - Resposta</a>
-    - <img src="https://i.imgur.com/lzM5YuM.png" />
+
+    <img src="https://i.imgur.com/lzM5YuM.png" />
   - [x] Componentes controlados
   - [x] Desafio Mega-Sena
   - [x] Desafio MEga-Sena - Resposta #01
   - [x] Desafio MEga-Sena - Resposta #02
   - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/blob/main/exercicios/pages/estado/megasena.jsx">Desafio MEga-Sena - Resposta #03</a>
-    - <img src="https://i.imgur.com/8FL5RC2.png" />
+
+    <img src="https://i.imgur.com/8FL5RC2.png" />
   - [x] Componentes baseados em classe
   - [x] Sistema módulo ECMAScript
   - [x] Integrando Typescript
   - [x]  Conclusão do Módulo
-- [ ]  3. Fundamentos de Next.js
-- [ ]  4. Projeto Porta Premiada - APlicando os conceitos fundamentais
+- [ ] 3. Fundamentos de Next.js
+     - [ ] Introdução do Módulo
+     - [ ] Código Fonte Final
+     - [ ] Criando o Projeto
+     - [ ] Estruturonas do Projeto
+     - [ ] Pasta Page e as Rotas no Next
+     - [ ] Rotas #01
+     - [ ] Rotas #02
+     - [ ] Rotas #03
+     - [ ] Navegando entre Páginas #01
+     - [ ] Navegando entre Páginas #02
+     - [ ] API #01
+     - [ ] API #02
+     - [ ] Integrando com API #01
+     - [ ] Integrando com API #02
+     - [ ] Api com Múltiplos Parâmetros
+     - [ ] Resolvendo Warnings
+- [ ] 4. Projeto Porta Premiada - APlicando os conceitos fundamentais
 - [ ]  5. Modos de Pré renderização do Next.js
 - [ ]  6. Projeto Quiz - FullStack com Next.js
 - [ ]  7. Projeto Tarefas - Integração com TailwindCSS
