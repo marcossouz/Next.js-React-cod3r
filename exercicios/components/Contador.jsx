@@ -2,15 +2,10 @@ import { Component } from "react";
 
 export default class Contador extends Component {
 
-  constructor(props) {
-    super(props)
-
-    this.state = {
-      numero: props.valorInicial ?? 0,
-      passo: props.passo ?? 1
-    }
+  state = {
+    numero: this.props.valorInicial ?? 0,
+    passo: this.props.passo ?? 1
   }
-
 
   dec = () => {
     this.setState({
