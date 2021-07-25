@@ -14,9 +14,9 @@ export const Comp4 = props => {
   return <h2>Comp #04</h2>
 }
 
-export const Comp5 = () => <h2>Comp #05</h2>
+const Comp5 = () => <h2>Comp #05</h2>
 
-export const Comp6 = () => (
+const Comp6 = () => (
   <div>
     <h2>Comp #06</h2>
   </div>
@@ -33,3 +33,7 @@ export const Comp8 = props => (
     <h2>Comp #08 {props.msg}</h2>
   </div>
 )
+
+export {
+  Comp5, Comp6
+}
