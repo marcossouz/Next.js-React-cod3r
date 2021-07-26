@@ -75,7 +75,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] API #02
      - [x] Integrando com API #01
      - [x] Integrando com API #02
-     - [ ] Api com Múltiplos Parâmetros
+     - [x] Api com Múltiplos Parâmetros
      - [ ] Resolvendo Warnings
 - [ ] 4. Projeto Porta Premiada - APlicando os conceitos fundamentais
 - [ ]  5. Modos de Pré renderização do Next.js
