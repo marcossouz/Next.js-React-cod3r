@@ -78,8 +78,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Api com Múltiplos Parâmetros
      - [x] Resolvendo Warnings
 - [ ] 4. Projeto Porta Premiada - APlicando os conceitos fundamentais
-     - [ ] Introdução do módulo
-     - [ ] Código Fonte Final
+     - [x] Introdução do módulo
+     - [x] <a href="https://drive.google.com/file/d/1klNi2Bv03i3aqiaQrsbcTdSwVJ2xyVI6/view?usp=sharing">Código Fonte Final</a>
      - [ ] Visão Geral da Aplicação
      - [ ] Criando o Projeto
      - [ ] Componente Presente
