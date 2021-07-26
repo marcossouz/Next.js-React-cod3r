@@ -1,7 +1,7 @@
-import { useRouter } from "next/dist/client/router"
-import Link from "next/dist/client/link"
+import {useRouter} from "next/router"
+import Link from "next/link"
 
-export default function params() {
+export default function Params() {
   const router = useRouter()
 
   // console.log(router)
@@ -12,7 +12,7 @@ export default function params() {
   return (
     <div>
       <h1>Rotas Params: {id} - {nome}</h1>
-      <Link href="/rotas">
+      <Link href="/rotas" passHref>
         <button>Voltar</button>
       </Link>
     </div>

@@ -60,7 +60,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
   - [x] Sistema módulo ECMAScript
   - [x] Integrando Typescript
   - [x]  Conclusão do Módulo
-- [ ] 3. Fundamentos de Next.js
+- [x] 3. Fundamentos de Next.js
      - [x] Introdução do Módulo
      - [x] <a href="https://drive.google.com/file/d/1877JfxUOcz8KxmmcTMoULkx_r2VLy8lQ/view?usp=sharing">Código Fonte Final</a>
      - [x] Criando o Projeto
@@ -76,7 +76,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Integrando com API #01
      - [x] Integrando com API #02
      - [x] Api com Múltiplos Parâmetros
-     - [ ] Resolvendo Warnings
+     - [x] Resolvendo Warnings
 - [ ] 4. Projeto Porta Premiada - APlicando os conceitos fundamentais
 - [ ]  5. Modos de Pré renderização do Next.js
 - [ ]  6. Projeto Quiz - FullStack com Next.js
