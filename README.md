@@ -78,6 +78,33 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Api com Múltiplos Parâmetros
      - [x] Resolvendo Warnings
 - [ ] 4. Projeto Porta Premiada - APlicando os conceitos fundamentais
+     - [ ] Introdução do módulo
+     - [ ] Código Fonte Final
+     - [ ] Visão Geral da Aplicação
+     - [ ] Criando o Projeto
+     - [ ] Componente Presente
+     - [ ] Box Sizing
+     - [ ] Componente Porta #01
+     - [ ] Componente Porta #02
+     - [ ] Componente Porta #03
+     - [ ] Componente Porta #04
+     - [ ] Componente Porta #05
+     - [ ] Componente Porta #06
+     - [ ] Classe Porta
+     - [ ] Integrando Typescript
+     - [ ] Adicionando Eventos a Porta #01
+     - [ ] Adicionando Eventos a Porta #02
+     - [ ] Adicionando Eventos a Porta #03
+     - [ ] Lidando com Array de Portas #01
+     - [ ] Lidando com Array de Portas #02
+     - [ ] Integração Porta Presente
+     - [ ] Componente Jogo #01
+     - [ ] Componente Jogo #02
+     - [ ] Usando Router
+     - [ ] Estruturando o Formulário
+     - [ ] Finalizando o Formulário
+     - [ ] Validando o Formulário
+     - [ ] Atualizando o Next 11
 - [ ]  5. Modos de Pré renderização do Next.js
 - [ ]  6. Projeto Quiz - FullStack com Next.js
 - [ ]  7. Projeto Tarefas - Integração com TailwindCSS
