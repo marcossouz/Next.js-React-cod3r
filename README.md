@@ -86,7 +86,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Box Sizing
      - [x] Componente Porta #01
      - [x] Componente Porta #02
-     - [ ] Componente Porta #03
+     - [x] Componente Porta #03
      - [ ] Componente Porta #04
      - [ ] Componente Porta #05
      - [ ] Componente Porta #06
