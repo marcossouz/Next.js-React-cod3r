@@ -82,7 +82,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] <a href="https://drive.google.com/file/d/1klNi2Bv03i3aqiaQrsbcTdSwVJ2xyVI6/view?usp=sharing">Código Fonte Final</a>
      - [x] Visão Geral da Aplicação
      - [x] Criando o Projeto
-     - [ ] Componente Presente
+     - [x] Componente Presente
      - [ ] Box Sizing
      - [ ] Componente Porta #01
      - [ ] Componente Porta #02
