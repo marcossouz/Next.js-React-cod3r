@@ -93,7 +93,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Classe Porta
      - [x] Integrando Typescript
      - [x] Adicionando Eventos a Porta #01
-     - [ ] Adicionando Eventos a Porta #02
+     - [x] Adicionando Eventos a Porta #02
      - [ ] Adicionando Eventos a Porta #03
      - [ ] Lidando com Array de Portas #01
      - [ ] Lidando com Array de Portas #02
