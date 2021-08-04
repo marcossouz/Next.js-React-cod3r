@@ -95,8 +95,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Adicionando Eventos a Porta #01
      - [x] Adicionando Eventos a Porta #02
      - [x] Adicionando Eventos a Porta #03
-     - [ ] Lidando com Array de Portas #01
-     - [ ] Lidando com Array de Portas #02
+     - [x] Lidando com Array de Portas #01
+     - [x] Lidando com Array de Portas #02
      - [ ] Integração Porta Presente
      - [ ] Componente Jogo #01
      - [ ] Componente Jogo #02
