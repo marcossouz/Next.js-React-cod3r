@@ -109,7 +109,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Introdução do módulo
      - [x] <a href="https://drive.google.com/file/d/1YNwbcD2aaUOZDBMbMxx7EACnR9r4P-HD/view?usp=sharing">Código Fonte Final</a>
      - [x] Estratégias de Renderização
-     - [ ] Renderização SPA
+     - [x] Renderização SPA
      - [ ] Renderização SSR
      - [ ] Renderização SSG
      - [ ] Analisando o Projeto Tabuleiro
