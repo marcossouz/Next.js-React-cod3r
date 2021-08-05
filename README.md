@@ -100,7 +100,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Integração Porta Presente
      - [x] Componente Jogo #01
      - [x] Componente Jogo #02
-     - [ ] Usando Router
+     - [x] Usando Router
      - [ ] Estruturando o Formulário
      - [ ] Finalizando o Formulário
      - [ ] Validando o Formulário
