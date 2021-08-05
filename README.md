@@ -103,7 +103,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Usando Router
      - [x] Estruturando o Formulário
      - [x] Finalizando o Formulário
-     - [ ] Validando o Formulário
+     - [x] Validando o Formulário
      - [ ] Atualizando o Next 11
 - [ ]  5. Modos de Pré renderização do Next.js
 - [ ]  6. Projeto Quiz - FullStack com Next.js

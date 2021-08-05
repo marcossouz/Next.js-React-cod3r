@@ -1,7 +1,7 @@
 import styles from '../styles/Cartao.module.css'
 
 interface CartaoProps {
-  bgColor?: String,
+  bgColor?: string,
   children?: any
 }
 
