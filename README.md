@@ -77,7 +77,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Integrando com API #02
      - [x] Api com Múltiplos Parâmetros
      - [x] Resolvendo Warnings
-- [x] 4. Projeto Porta Premiada - APlicando os conceitos fundamentais
+- [x] 4. <a href="https://github.com/marcossouz/Next.js-React-cod3r/tree/main/portas">Projeto Porta Premiada </a> - APlicando os conceitos fundamentais
      - [x] Introdução do módulo
      - [x] <a href="https://drive.google.com/file/d/1klNi2Bv03i3aqiaQrsbcTdSwVJ2xyVI6/view?usp=sharing">Código Fonte Final</a>
      - [x] Visão Geral da Aplicação
