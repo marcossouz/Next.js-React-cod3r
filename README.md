@@ -98,7 +98,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Lidando com Array de Portas #01
      - [x] Lidando com Array de Portas #02
      - [x] Integração Porta Presente
-     - [ ] Componente Jogo #01
+     - [x] Componente Jogo #01
      - [ ] Componente Jogo #02
      - [ ] Usando Router
      - [ ] Estruturando o Formulário
