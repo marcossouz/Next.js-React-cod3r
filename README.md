@@ -101,7 +101,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Componente Jogo #01
      - [x] Componente Jogo #02
      - [x] Usando Router
-     - [ ] Estruturando o Formulário
+     - [x] Estruturando o Formulário
      - [ ] Finalizando o Formulário
      - [ ] Validando o Formulário
      - [ ] Atualizando o Next 11
