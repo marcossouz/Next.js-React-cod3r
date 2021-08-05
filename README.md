@@ -77,7 +77,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Integrando com API #02
      - [x] Api com Múltiplos Parâmetros
      - [x] Resolvendo Warnings
-- [ ] 4. Projeto Porta Premiada - APlicando os conceitos fundamentais
+- [x] 4. Projeto Porta Premiada - APlicando os conceitos fundamentais
      - [x] Introdução do módulo
      - [x] <a href="https://drive.google.com/file/d/1klNi2Bv03i3aqiaQrsbcTdSwVJ2xyVI6/view?usp=sharing">Código Fonte Final</a>
      - [x] Visão Geral da Aplicação
@@ -105,7 +105,26 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Finalizando o Formulário
      - [x] Validando o Formulário
      - [x] Atualizando o Next 11
-- [ ]  5. Modos de Pré renderização do Next.js
+- [ ] 5. Modos de Pré renderização do Next.js
+     - [ ] Introdução do módulo
+     - [ ] Código Fonte Final
+     - [ ] Estratégias de Renderização
+     - [ ] Renderização SPA
+     - [ ] Renderização SSR
+     - [ ] Renderização SSG
+     - [ ] Analisando o Projeto Tabuleiro
+     - [ ] Criando o Projeto
+     - [ ] Componente Estático #01
+     - [ ] Componente Estático #02
+     - [ ] Componente Estático #03
+     - [ ] Componente Estático #04 - Parte 1
+     - [ ] Componente Estático #04 - Parte 2
+     - [ ] Componente Dinâmico #01
+     - [ ] Componente Dinâmico #02
+     - [ ] Bug no build do Projeto
+     - [ ] Usando getStaticPaths - Parte 1
+     - [ ] Usando getStaticPaths - Parte 2
+     - [ ] Usando Fallback True
 - [ ]  6. Projeto Quiz - FullStack com Next.js
 - [ ]  7. Projeto Tarefas - Integração com TailwindCSS
 - [ ]  8. Deploy na nuvem
