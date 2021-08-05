@@ -16,6 +16,5 @@ yarn dev
 <img src="https://i.imgur.com/gzhwKgw.png" width="500"/>
 <img src="https://i.imgur.com/WEiVyMY.png" width="500" />
 <img src="https://i.imgur.com/BMGFCw1.png" width="500" />
-<img src="https://i.imgur.com/WEiVyMY.png" width="500" />
 <img src="https://i.imgur.com/WclP0xP.png" width="500" />
 <img src="https://i.imgur.com/Vg24DAP.png" width="500" />
