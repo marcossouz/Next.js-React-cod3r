@@ -106,8 +106,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Validando o Formulário
      - [x] Atualizando o Next 11
 - [ ] 5. Modos de Pré renderização do Next.js
-     - [ ] Introdução do módulo
-     - [ ] Código Fonte Final
+     - [x] Introdução do módulo
+     - [x] <a href="https://drive.google.com/file/d/1YNwbcD2aaUOZDBMbMxx7EACnR9r4P-HD/view?usp=sharing">Código Fonte Final</a>
      - [ ] Estratégias de Renderização
      - [ ] Renderização SPA
      - [ ] Renderização SSR
