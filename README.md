@@ -111,7 +111,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Estratégias de Renderização
      - [x] Renderização SPA
      - [x] Renderização SSR
-     - [ ] Renderização SSG
+     - [x] Renderização SSG
      - [ ] Analisando o Projeto Tabuleiro
      - [ ] Criando o Projeto
      - [ ] Componente Estático #01
