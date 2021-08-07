@@ -1,6 +1,6 @@
 export function getStaticProps() {
   return {
-    revalidate: 7,
+    revalidate: 7, // segundos!
     props: {
       numero: Math.random()
     }
