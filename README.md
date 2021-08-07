@@ -105,7 +105,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Finalizando o Formulário
      - [x] Validando o Formulário
      - [x] Atualizando o Next 11
-- [ ] 5. Modos de Pré renderização do Next.js
+- [x] 5. Modos de Pré renderização do Next.js
      - [x] Introdução do módulo
      - [x] <a href="https://drive.google.com/file/d/1YNwbcD2aaUOZDBMbMxx7EACnR9r4P-HD/view?usp=sharing">Código Fonte Final</a>
      - [x] Estratégias de Renderização
@@ -123,8 +123,8 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Componente Dinâmico #02
      - [x] Bug no build do Projeto
      - [x] Usando getStaticPaths - Parte 1
-     - [ ] Usando getStaticPaths - Parte 2
-     - [ ] Usando Fallback True
+     - [x] Usando getStaticPaths - Parte 2
+     - [x] Usando Fallback True
 - [ ]  6. Projeto Quiz - FullStack com Next.js
 - [ ]  7. Projeto Tarefas - Integração com TailwindCSS
 - [ ]  8. Deploy na nuvem
