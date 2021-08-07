@@ -1,5 +1,6 @@
 export function getStaticProps() {
   return {
+    revalidade: 7,
     props: {
       numero: Math.random()
     }
