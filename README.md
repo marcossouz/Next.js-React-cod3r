@@ -119,9 +119,9 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Componente Estático #03
      - [x] Componente Estático #04 - Parte 1
      - [x] Componente Estático #04 - Parte 2
-     - [ ] Componente Dinâmico #01
-     - [ ] Componente Dinâmico #02
-     - [ ] Bug no build do Projeto
+     - [x] Componente Dinâmico #01
+     - [x] Componente Dinâmico #02
+     - [x] Bug no build do Projeto
      - [ ] Usando getStaticPaths - Parte 1
      - [ ] Usando getStaticPaths - Parte 2
      - [ ] Usando Fallback True
