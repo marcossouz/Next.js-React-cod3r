@@ -114,11 +114,11 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Renderização SSG
      - [x] Analisando o Projeto Tabuleiro
      - [x] <a href="https://github.com/marcossouz/Next.js-React-cod3r/tree/main/renderizacao">Criando o Projeto</a>
-     - [ ] Componente Estático #01
-     - [ ] Componente Estático #02
-     - [ ] Componente Estático #03
-     - [ ] Componente Estático #04 - Parte 1
-     - [ ] Componente Estático #04 - Parte 2
+     - [x] Componente Estático #01
+     - [x] Componente Estático #02
+     - [x] Componente Estático #03
+     - [x] Componente Estático #04 - Parte 1
+     - [x] Componente Estático #04 - Parte 2
      - [ ] Componente Dinâmico #01
      - [ ] Componente Dinâmico #02
      - [ ] Bug no build do Projeto
