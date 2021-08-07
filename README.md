@@ -122,7 +122,7 @@ Next.js &amp; React - Curso Completo - Totalmente Baseado em Projetos
      - [x] Componente Dinâmico #01
      - [x] Componente Dinâmico #02
      - [x] Bug no build do Projeto
-     - [ ] Usando getStaticPaths - Parte 1
+     - [x] Usando getStaticPaths - Parte 1
      - [ ] Usando getStaticPaths - Parte 2
      - [ ] Usando Fallback True
 - [ ]  6. Projeto Quiz - FullStack com Next.js
